@@ -4,4 +4,4 @@ This project is focused on recommendation system where the system creates a matr
 
 In order to run the model please open the "model.ipnyb"
 
-*Please note that this is a prototype and not the final outcome of the model*
+*Please note that this is a prototype and only display the vendors dataset this is not the final outcome of the model*
