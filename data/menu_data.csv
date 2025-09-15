@@ -1,0 +1,57 @@
+Category,Product ID,Menu Name,Price
+Pork Menu,1000,Baby Back Ribs (Best Seller),"1,100.00PHP"
+Pork Menu,1001,Pork Caldereta,"1,100.00PHP"
+Pork Menu,1002,Pork Hamonado,"1,100.00PHP"
+Pork Menu,1003,Baked Pork Pastel,"1,100.00PHP"
+Pork Menu,1004,Pork Menudo,"1,100.00PHP"
+Pork Menu,1005,Pork Binagoongan,950.00PHP
+Pork Menu,1006,Pork Liempo BBQ,"1,000.00PHP"
+Beef Menu,1007,Beef Caldereta (Best Seller),"1,100.00PHP"
+Beef Menu,1008,Beef with Broccoli,"1,100.00PHP"
+Beef Menu,1009,Beef with Mushrooms,"1,100.00PHP"
+Chicken Menu,1010,Chicken Cordon Bleu (Best Seller),850.00PHP
+Chicken Menu,1011,Fried Chicken,800.00PHP
+Chicken Menu,1012,Flavored Fried Chicken,800.00PHP
+Chicken Menu,1013,Chicken BBQ,800.00PHP
+Chicken Menu,1014,Chicken Pastel,950.00PHP
+Chicken Menu,1015,Chicken Fingers,750.00PHP
+Fish / Seafood Menu,1016,Breaded Fish Fillet with Tartar Sauce,750.00PHP
+Fish / Seafood Menu,1017,Fish Fillet with Fish Tofu,800.00PHP
+Fish / Seafood Menu,1018,Breaded Fish in Lemon Sauce,800.00PHP
+Fish / Seafood Menu,1019,Sweet & Sour Fish Fillet,800.00PHP
+Fish / Seafood Menu,1020,Buttered Shrimps,850.00PHP
+Vegetable Menu,1021,Chop Suey,750.00PHP
+Vegetable Menu,1022,Vegetable Lumpia (Lumpiang Hubad),650.00PHP
+Vegetable Menu,1023,Lumpiang Ubod with Peanut Sauce,650.00PHP
+Vegetable Menu,1024,Buttered Corn & Carrots,650.00PHP
+Vegetable Menu,1025,Mixed Veggies with Quail Eggs,650.00PHP
+Noodles & Pasta,1026,Baked Mac (Best Seller),600.00PHP
+Noodles & Pasta,1027,Carbonara,600.00PHP
+Noodles & Pasta,1028,Lasagna,900.00PHP
+Noodles & Pasta,1029,Spaghetti (Pinoy Style),900.00PHP
+Noodles & Pasta,1030,Pancit Canton-Sotanghon Guisado (Best Seller),900.00PHP
+Noodles & Pasta,1031,Pancit Bihon,850.00PHP
+Noodles & Pasta,1032,Seafood Palabok,900.00PHP
+Snacks & Desserts,1033,Lumpiang Shanghai,850.00PHP
+Snacks & Desserts,1034,Donya Aurora,25.00PHP
+Snacks & Desserts,1035,Empanada,25.00PHP
+Snacks & Desserts,1036,Chicken Macaroni Salad,650.00PHP
+Snacks & Desserts,1037,Caesar Salad,650.00PHP
+Snacks & Desserts,1038,Potato Salad,650.00PHP
+Snacks & Desserts,1039,Maja Blanca (Best Seller),700.00PHP
+Snacks & Desserts,1040,Sinukmani / Biko,750.00PHP
+Snacks & Desserts,1041,Puto,375.00PHP
+Snacks & Desserts,1042,Leche Cassava Cake,400.00PHP
+Snacks & Desserts,1043,Buko Pandan,400.00PHP
+Snacks & Desserts,1044,Coffee Jelly,350.00PHP
+Snacks & Desserts,1045,Mango Jelly (Best Seller),350.00PHP
+Snacks & Desserts,1046,Leche Flan,70.00PHP
+Combo,1047,Trio Set A,"1,500.00PHP"
+Combo,1048,Trio Set B,"1,200.00PHP"
+Combo,1049,Trio Set C,"1,200.00PHP"
+Combo,1050,Fried Chicken Set A,"1,250.00PHP"
+Combo,1051,Fried Chicken Set B,850.00PHP
+Combo,1052,Seafood / Picnic Set A,"2,200.00PHP"
+Combo,1053,Seafood / Picnic Set B,"1,500.00PHP"
+Combo,1054,Kakanin Set A,850.00PHP
+Combo,1055,Kakanin Set B,850.00PHP

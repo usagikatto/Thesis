@@ -1,0 +1,201 @@
+﻿Column1,Column2,Column3,Column4,Column5,Column6,Column7
+Category,Vendor Name,Municipality,Estimated Price,Package,Date,Rating
+Photographer,Golden Lens Studio,Lucena,45000,Basic,2022-01-15,4.3
+Lights,BrightBeam Lights,Sariaya,38000,Standard,2022-02-20,4.5
+Sounds,SoundWave Pro,Lucban,42000,Premium,2022-03-10,4.6
+Decorator,Elegant Touch Decor,Pagbilao,50000,Deluxe,2022-04-22,4.7
+Photographer,Memories Captured,Atimonan,47000,Standard,2022-05-18,4.4
+Lights,Shine Bright Rentals,Candelaria,36000,Basic,2022-06-25,4.2
+Sounds,ClearTone Audio,Gumaca,51000,Premium,2022-07-13,4.6
+Decorator,Graceful Designs,Lopez,56000,Deluxe,2022-08-30,4.8
+Photographer,Timeless Shots,Unisan,48000,Standard,2022-09-19,4.5
+Lights,LuxLite Creations,Tayabas,39000,Premium,2022-10-27,4.6
+Sounds,Party Beats Audio,Lucena,52000,Deluxe,2022-11-16,4.7
+Decorator,Classic Charm Events,Sariaya,60000,Premium,2022-12-20,4.8
+Photographer,Crystal Memories,Lucban,45000,Basic,2023-01-14,4.3
+Lights,NeonGlow Events,Pagbilao,37000,Standard,2023-02-23,4.4
+Sounds,Bassline Masters,Atimonan,55000,Premium,2023-03-18,4.6
+Decorator,Elite Event Styling,Candelaria,58000,Deluxe,2023-04-25,4.7
+Photographer,Pixel Perfect Studios,Gumaca,49000,Premium,2023-05-12,4.5
+Lights,Starlight Productions,Lopez,40000,Premium,2023-06-20,4.6
+Sounds,AudioMix Pro,Unisan,47000,Standard,2023-07-29,4.4
+Decorator,Majestic Decor,Tayabas,61000,Deluxe,2023-08-25,4.8
+Photographer,Frame by Frame,Lucena,53000,Premium,2023-09-18,4.6
+Lights,GlowWorks Lighting,Sariaya,39500,Basic,2023-10-22,4.3
+Sounds,SoundSphere Audio,Lucban,56000,Premium,2023-11-16,4.7
+Decorator,Artistry Creations,Pagbilao,59000,Deluxe,2023-12-21,4.8
+Photographer,LightCraft Studios,Atimonan,46000,Standard,2024-01-17,4.4
+Lights,Radiance Rentals,Candelaria,37000,Standard,2024-02-26,4.5
+Sounds,BoomBox Audio,Gumaca,52000,Premium,2024-03-22,4.6
+Decorator,Grand Elegance Styling,Lopez,64000,Deluxe,2024-04-29,4.9
+Photographer,ShutterMagic,Unisan,50000,Premium,2024-05-15,4.7
+Lights,Lumina Events,Tayabas,41000,Premium,2024-06-21,4.6
+Sounds,TrebleTone Systems,Lucena,54000,Deluxe,2024-07-18,4.7
+Decorator,Blooming Moments,Sariaya,58000,Premium,2024-08-29,4.8
+Photographer,Capture Essence,Lucban,49000,Standard,2024-09-12,4.5
+Lights,VividSpark Lighting,Pagbilao,38500,Basic,2024-10-19,4.3
+Sounds,AudioEdge Pro,Atimonan,56000,Premium,2024-11-25,4.6
+Decorator,Perfect Day Styling,Candelaria,60000,Deluxe,2024-12-20,4.7
+Photographer,Ever After Shots,Gumaca,53000,Premium,2025-01-15,4.6
+Lights,Luxora Lighting,Lopez,42000,Premium,2025-02-19,4.6
+Sounds,Crystal Clear Audio,Unisan,55000,Deluxe,2025-03-24,4.7
+Decorator,Timeless Charm Decor,Tayabas,59000,Premium,2025-04-29,4.8
+Photographer,Brilliance Studio,Lucena,51000,Standard,2025-05-16,4.4
+Lights,GlowCraft Events,Sariaya,40500,Premium,2025-06-22,4.6
+Sounds,Rhythm & Bass Pro,Lucban,57000,Premium,2025-07-19,4.7
+Decorator,Luxe Touch Events,Pagbilao,62000,Deluxe,2025-08-25,4.8
+Photographer,Forever Frames,Atimonan,50000,Premium,2025-09-30,4.7
+Lights,Rays & Shine Rentals,Candelaria,39500,Standard,2022-01-20,4.4
+Sounds,BeatWave Audio,Gumaca,53000,Premium,2022-02-26,4.6
+Decorator,Golden Grace Styling,Lopez,60000,Deluxe,2022-03-29,4.8
+Photographer,Vivid Memories,Unisan,47000,Standard,2022-04-17,4.5
+Lights,LightWorks Pro,Tayabas,41500,Premium,2022-05-22,4.6
+,,,,,,
+Sounds,DeepBass Audio,Lucena,56000,Deluxe,2022-06-28,4.7
+Decorator,Heavenly Decor,Sariaya,61000,Premium,2022-07-15,4.8
+Photographer,True Colors Studio,Lucban,49000,Standard,2022-08-20,4.5
+Lights,Prism Glow Lighting,Pagbilao,40000,Premium,2022-09-25,4.6
+Sounds,AudioFusion Pro,Atimonan,57000,Premium,2022-10-18,4.6
+Decorator,Dreamscape Styling,Candelaria,63000,Deluxe,2022-11-23,4.9
+Photographer,Eternal Lens,Gumaca,52000,Premium,2022-12-14,4.7
+Lights,BeamLine Rentals,Lopez,38500,Standard,2023-01-18,4.4
+Sounds,StageCraft Audio,Unisan,54500,Premium,2023-02-23,4.6
+Decorator,GrandAura Decor,Tayabas,65000,Deluxe,2023-03-29,4.9
+Photographer,InFocus Studio,Lucena,50000,Basic,2023-04-21,4.3
+Lights,GlitterGlow Events,Sariaya,39500,Standard,2023-05-27,4.5
+Sounds,ClearBeat Systems,Lucban,52000,Premium,2023-06-30,4.6
+Decorator,Opulent Touch Styling,Pagbilao,64000,Deluxe,2023-07-18,4.8
+Photographer,Memory Lane Studios,Atimonan,49000,Standard,2023-08-23,4.5
+Lights,Shimmer Lights Co.,Candelaria,37500,Basic,2023-09-27,4.4
+Sounds,ProTone Audio,Gumaca,55000,Premium,2023-10-20,4.7
+Decorator,Velvet Elegance,Lopez,60000,Premium,2023-11-24,4.8
+Photographer,FocusPoint Studio,Unisan,51000,Premium,2023-12-29,4.6
+Lights,Starry Nights Lighting,Tayabas,42000,Premium,2024-01-25,4.7
+Sounds,AudioVista Pro,Lucena,54000,Deluxe,2024-02-20,4.8
+Decorator,Crystal Charm Styling,Sariaya,59000,Premium,2024-03-28,4.8
+Photographer,The Perfect Shot,Lucban,47000,Standard,2024-04-22,4.5
+Lights,IllumiNation Events,Pagbilao,41000,Premium,2024-05-29,4.6
+Sounds,ToneMaster Audio,Atimonan,56000,Premium,2024-06-17,4.6
+Decorator,Heirloom Designs,Candelaria,65000,Deluxe,2024-07-24,4.9
+Photographer,Creative Lens,Gumaca,50000,Premium,2024-08-19,4.7
+Lights,Radiant Glow Rentals,Lopez,39000,Standard,2024-09-25,4.4
+Sounds,ClearTone Systems,Unisan,53000,Premium,2024-10-30,4.6
+Decorator,Chic Charm Decor,Tayabas,60000,Deluxe,2024-11-18,4.8
+Photographer,Life Moments Studio,Lucena,52000,Premium,2024-12-22,4.7
+Lights,Luminary Events,Sariaya,40000,Standard,2025-01-29,4.5
+Sounds,SoundCraft Pro,Lucban,55000,Premium,2025-02-24,4.6
+Decorator,Exquisite Designs,Pagbilao,64000,Deluxe,2025-03-31,4.8
+Photographer,Visionary Shots,Atimonan,49000,Standard,2025-04-27,4.5
+Lights,ShineScape Lighting,Candelaria,38500,Basic,2025-05-14,4.4
+Sounds,StageWave Audio,Gumaca,57000,Premium,2025-06-20,4.7
+Decorator,Luxury Bloom Styling,Lopez,62000,Deluxe,2025-07-27,4.9
+Photographer,Prism Portraits,Unisan,51000,Premium,2025-08-21,4.6
+Lights,GlowFusion Lighting,Tayabas,42000,Premium,2025-09-29,4.7
+Sounds,BassCore Audio,Lucena,54000,Deluxe,2022-01-18,4.8
+Decorator,Refined Touch Events,Sariaya,61000,Premium,2022-02-24,4.8
+Photographer,Legacy Frames,Lucban,48000,Standard,2022-03-22,4.5
+Lights,RaySpark Rentals,Pagbilao,39500,Standard,2022-04-19,4.5
+Sounds,Elite Sound Systems,Atimonan,56000,Premium,2022-05-27,4.7
+Decorator,Golden Glow Decor,Candelaria,63000,Deluxe,2022-06-30,4.9
+Photographer,Snapshot Studio,Gumaca,50000,Premium,2022-07-26,4.7
+Lights,BeamCraft Lighting,Lopez,41000,Premium,2022-08-22,4.6
+Sounds,TrebleMax Audio,Unisan,53000,Premium,2022-09-30,4.6
+Decorator,Prestige Styling,Tayabas,62000,Deluxe,2022-10-25,4.8
+,,,,,,
+Photographer,ArtLens Studio,Lucena,52000,Premium,2022-11-29,4.7
+Lights,GlowStream Lighting,Sariaya,40500,Standard,2022-12-18,4.5
+Sounds,ProAudio Masters,Lucban,55000,Premium,2023-01-22,4.6
+Decorator,Dream Elegance Styling,Pagbilao,64000,Deluxe,2023-02-27,4.8
+Photographer,TrueVision Studio,Atimonan,49000,Standard,2023-03-21,4.5
+Lights,LuxGlow Rentals,Candelaria,42000,Premium,2023-04-25,4.7
+Sounds,EliteTone Systems,Gumaca,57000,Premium,2023-05-19,4.6
+Decorator,Crystal Luxe Decor,Lopez,63000,Deluxe,2023-06-28,4.9
+Photographer,Magic Moments Studio,Unisan,50000,Premium,2023-07-24,4.6
+Lights,PrismShine Lighting,Tayabas,39000,Standard,2023-08-30,4.4
+Sounds,AudioPro Plus,Lucena,56000,Deluxe,2023-09-27,4.7
+Decorator,Blissful Touch Events,Sariaya,60000,Premium,2023-10-23,4.8
+Photographer,Reflections Studio,Lucban,48000,Standard,2023-11-20,4.5
+Lights,NeonLite Events,Pagbilao,39500,Basic,2023-12-29,4.4
+Sounds,BeatMasters Pro,Atimonan,54000,Premium,2024-01-26,4.6
+Decorator,Elegance by Design,Candelaria,62000,Deluxe,2024-02-21,4.9
+Photographer,Picture Perfect Studio,Gumaca,53000,Premium,2024-03-18,4.7
+Lights,GlowArt Lighting,Lopez,40000,Standard,2024-04-24,4.5
+Sounds,StageMax Audio,Unisan,55000,Premium,2024-05-29,4.6
+Decorator,Divine Details Styling,Tayabas,64000,Deluxe,2024-06-21,4.9
+Photographer,Lens Legacy Studio,Lucena,50000,Standard,2024-07-28,4.5
+Lights,StarBeam Events,Sariaya,41000,Premium,2024-08-25,4.6
+Sounds,SonicWave Pro,Lucban,57000,Premium,2024-09-30,4.7
+Decorator,Majestic Moments,Pagbilao,65000,Deluxe,2024-10-27,4.9
+Photographer,Timeless Treasures,Atimonan,52000,Premium,2024-11-22,4.6
+Lights,ShineAura Lighting,Candelaria,38500,Standard,2024-12-18,4.5
+Sounds,ClearAudio Pro,Gumaca,54000,Premium,2025-01-30,4.6
+Decorator,Opal Charm Decor,Lopez,60000,Deluxe,2025-02-24,4.8
+Photographer,Grace Shots,Unisan,48000,Standard,2025-03-29,4.4
+Lights,Lumiere Events,Tayabas,42000,Premium,2025-04-26,4.7
+Sounds,BassBoost Systems,Lucena,55000,Premium,2025-05-22,4.6
+Decorator,Finest Touch Styling,Sariaya,63000,Deluxe,2025-06-28,4.9
+Photographer,Captured Essence,Lucban,49000,Standard,2025-07-24,4.5
+Lights,GlowWave Rentals,Pagbilao,40000,Premium,2025-08-30,4.6
+Sounds,ToneWave Audio,Atimonan,56000,Premium,2025-09-26,4.7
+Decorator,Opulent Bliss Decor,Candelaria,64000,Deluxe,2022-01-17,4.9
+Photographer,Chroma Studio,Gumaca,51000,Premium,2022-02-19,4.7
+Lights,LuxFlare Lighting,Lopez,39500,Standard,2022-03-15,4.4
+Sounds,AudioKing Pro,Unisan,54000,Premium,2022-04-21,4.6
+Decorator,Prestige Touch,Tayabas,65000,Deluxe,2022-05-18,4.9
+Photographer,LensCrafters,Lucena,50000,Standard,2022-06-24,4.5
+Lights,RayBurst Lighting,Sariaya,41500,Premium,2022-07-20,4.7
+Sounds,SonicMax Audio,Lucban,56000,Premium,2022-08-25,4.6
+Decorator,Enchanted Events,Pagbilao,61000,Deluxe,2022-09-30,4.8
+Photographer,EverGlow Studio,Atimonan,47000,Basic,2022-10-26,4.3
+Lights,LightSphere Events,Candelaria,38500,Standard,2022-11-29,4.5
+Sounds,StagePro Audio,Gumaca,53000,Premium,2022-12-21,4.7
+Decorator,Elite Charm Styling,Lopez,60000,Deluxe,2023-01-25,4.8
+,,,,,,
+Photographer,Golden Hour Studio,Unisan,49000,Premium,2023-02-27,4.6
+Lights,LumiWave Events,Tayabas,41000,Standard,2023-03-29,4.5
+Sounds,ClearTone Systems,Lucena,55000,Premium,2023-04-25,4.7
+Decorator,Sparkle Touch Events,Sariaya,62000,Deluxe,2023-05-21,4.9
+Photographer,Visionary Studio,Lucban,48000,Standard,2023-06-27,4.5
+Lights,ShineBright Rentals,Pagbilao,40000,Premium,2023-07-22,4.6
+Sounds,AudioElite Pro,Atimonan,56000,Premium,2023-08-28,4.7
+Decorator,Graceful Moments Decor,Candelaria,64000,Deluxe,2023-09-24,4.8
+Photographer,Lens Flair Studio,Gumaca,50000,Premium,2023-10-30,4.6
+Lights,Lumina Glow Events,Lopez,39500,Standard,2023-11-25,4.5
+Sounds,SonicXperience,Unisan,57000,Premium,2023-12-29,4.7
+Decorator,Velvet Charm Styling,Tayabas,63000,Deluxe,2024-01-24,4.9
+Photographer,Captured Bliss,Lucena,52000,Premium,2024-02-20,4.7
+Lights,LuxStream Lighting,Sariaya,40500,Standard,2024-03-27,4.4
+Sounds,BassWave Pro,Lucban,55000,Premium,2024-04-30,4.6
+Decorator,Timeless Touch Decor,Pagbilao,64000,Deluxe,2024-05-26,4.9
+Photographer,Picture This Studio,Atimonan,49500,Standard,2024-06-30,4.5
+Lights,GlowScene Rentals,Candelaria,41500,Premium,2024-07-27,4.6
+Sounds,AudioFusion Masters,Gumaca,57000,Premium,2024-08-31,4.7
+Decorator,Grand Elegance Styling,Lopez,65000,Deluxe,2024-09-27,4.9
+Photographer,Focus Point Studio,Unisan,50000,Premium,2024-10-30,4.6
+Lights,LumaStar Lighting,Tayabas,39500,Standard,2024-11-25,4.4
+Sounds,StageBeat Audio,Lucena,56000,Premium,2024-12-29,4.7
+Decorator,Opal Luxe Events,Sariaya,60000,Deluxe,2025-01-23,4.8
+Photographer,Perfect Frame Studio,Lucban,48000,Standard,2025-02-28,4.5
+Lights,ShineMax Rentals,Pagbilao,42000,Premium,2025-03-24,4.7
+Sounds,WaveTone Systems,Atimonan,55000,Premium,2025-04-30,4.6
+Decorator,Crystal Touch Styling,Candelaria,63000,Deluxe,2025-05-26,4.8
+Photographer,Lens Charm Studio,Gumaca,49000,Standard,2025-06-30,4.5
+Lights,GlowBeam Events,Lopez,40000,Premium,2025-07-25,4.6
+Sounds,ProStage Audio,Unisan,57000,Premium,2025-08-30,4.7
+Decorator,Majestic Elegance,Tayabas,64000,Deluxe,2025-09-26,4.9
+Photographer,Eternal Shots,Lucena,51000,Premium,2022-01-28,4.6
+Lights,RayLite Rentals,Sariaya,40500,Standard,2022-02-23,4.5
+Sounds,SoundCore Pro,Lucban,55000,Premium,2022-03-30,4.7
+Decorator,Bliss Luxe Styling,Pagbilao,63000,Deluxe,2022-04-25,4.8
+Photographer,Prime Lens Studio,Atimonan,49500,Standard,2022-05-31,4.5
+Lights,LuxAura Lighting,Candelaria,41500,Premium,2022-06-26,4.6
+Sounds,AudioWorks Pro,Gumaca,56000,Premium,2022-07-30,4.7
+Decorator,Elegance Unlimited,Lopez,64000,Deluxe,2022-08-25,4.9
+Photographer,Memories Studio,Unisan,50000,Premium,2022-09-30,4.6
+Lights,PrismLite Rentals,Tayabas,39000,Standard,2022-10-26,4.4
+Sounds,BeatLine Audio,Lucena,54000,Premium,2022-11-30,4.6
+Decorator,Velvet Dreams Events,Sariaya,62000,Deluxe,2022-12-28,4.9
+Photographer,Shutter Story,Lucban,48000,Standard,2023-01-30,4.5
+Lights,GlowPro Events,Pagbilao,40000,Premium,2023-02-25,4.7
+Sounds,StageMax Pro,Atimonan,56000,Premium,2023-03-31,4.7
+Decorator,Divine Luxe Styling,Candelaria,65000,Deluxe,2023-04-26,4.9
