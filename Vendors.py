@@ -1,6 +1,9 @@
 import pandas as pd
 import numpy as np
 
+coords = pd.read_csv("coords.csv")
+coords = coords.rename(columns={'City': 'Municipality'})
+
 def recommend_vendors(df, user_prefs, top_n=5, weights=None, strict_service=True):
     def haversine(lat1, lon1, lat2, lon2):
         R = 6371  # Earth radius in km
@@ -13,7 +16,7 @@ def recommend_vendors(df, user_prefs, top_n=5, weights=None, strict_service=True
     df = df.copy()
     # default weights
     if weights is None:
-        weights = {'price':0.50, 'rating':0.20, 'package':0.15, 'municipality':0.15, 'category':0.10, 'distance':0.15}
+        weights = {'price':0.5, 'rating':0.20, 'package':0.15, 'municipality':0.15, 'category':0.10, 'distance':0.15}
 
     user_muni = user_prefs.get('Municipality')
     user_coords = coords[coords['Municipality'].str.lower() == user_muni.lower()]
@@ -113,4 +116,5 @@ def recommend_vendors(df, user_prefs, top_n=5, weights=None, strict_service=True
 vendors_df = pd.read_csv("vendors.csv", header=1)
 prefs = {"Category":"Lights","Municipality":"Lucban","Budget":50000,"Package":"Standard"}
 recs = recommend_vendors(vendors_df, prefs, top_n=5, weights=None, strict_service=True)
-recs[['Vendor Name','Category','Municipality','Estimated Price','Rating','Score', 'Explanation']]
+
+print(recs[['Vendor Name','Category','Municipality','Estimated Price','Rating','Score', 'Explanation']])
