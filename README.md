@@ -7,7 +7,7 @@ In order to run the model please open the "model.ipnyb"
 *Please note that this is a prototype and only display the vendors dataset this is not the final outcome of the model*
 
 
-Content-Based Filtering
+### Content-Based Filtering
 
 Idea: Recommend items (venue/vendor/caterer) that are similar to the user’s preferences based on item attributes.
 
@@ -15,7 +15,7 @@ Example: If a user asks for “Photographer in Tayabas under ₱20,000, Standard
 
 Features: Location, Service/Capacity, Package, Price, Rating, Dishes (for catering).
 
-2. Cosine Similarity
+### Cosine Similarity
 
 Why: Because it measures how close two vectors (user preference vs item features) are, regardless of scale.
 
@@ -49,3 +49,5 @@ A⋅B
 
 
 Example: If user vector = [Budget=20k, Service=Photographer, Location=Tayabas] → we compute similarity against all vendors and rank the top matches.
+
+The model is a hybrid model using filters like Content-Based Filtering and Consine Similarity
